@@ -1,0 +1,43 @@
+.header{
+    display: flex;
+    justify-content: center;
+}
+
+.header_body{
+    background-color: aqua;
+    width: 40%;
+    height: 200px;
+    /* display: flex; */
+    text-align: center;
+    padding: auto;
+}
+
+/* .header_title */
+
+.header_title{
+    background-color: bisque;
+    height: 27%;
+    font-weight: bolder;
+    font-size: 4vh;
+    margin: auto;
+    
+}
+
+
+.header_form{
+    margin-top: 10px;
+    padding: auto;
+}
+.header_form input{
+    width: 65%;
+    background-size: 5px;
+    border-radius: 4px;
+}
+
+.header_form button{
+    width: 20%;
+    margin: 2px auto;
+    background-color: chartreuse;
+    cursor: pointer;
+    border-radius: 4px;
+}
